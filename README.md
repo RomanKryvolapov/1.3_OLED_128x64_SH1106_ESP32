@@ -13,7 +13,7 @@
 <p>PIN_UART_TX = 17</p>
 <p>PIN_UART_RX = 16</p>
 
-![1!](https://github.com/RomanKryvolapov/1.3_LCD_IPS_240x240_ST7735_ESP32/blob/master/Display.jpg "1")
+![1!](https://github.com/RomanKryvolapov/1.3_OLED_128x64_SH1106_ESP32/blob/master/Display.jpg "1")
 
-![2!](https://github.com/RomanKryvolapov/1.3_LCD_IPS_240x240_ST7735_ESP32/blob/master/ESP32-Pinout.png "2")
+![2!](https://github.com/RomanKryvolapov/1.3_OLED_128x64_SH1106_ESP32/blob/master/ESP32-Pinout.png "2")
 
