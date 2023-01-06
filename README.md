@@ -13,6 +13,16 @@
 <p>PIN_UART_TX = 17</p>
 <p>PIN_UART_RX = 16</p>
 
+<p>This library</p>
+<p>https://github.com/wonho-maker/Adafruit_SH1106</p>
+<p>not support esp32, I use this</p>
+<p>https://github.com/nhatuan84/esp32-sh1106-oled</p>
+<p>You can try this</p>
+<p>https://github.com/durydevelop/arduino-lib-oled</p>
+<p>or this</p>
+<p>https://github.com/Sylaina/oled-display</p>
+<p>or some any</p>
+
 ![1!](https://github.com/RomanKryvolapov/1.3_OLED_128x64_SH1106_ESP32/blob/master/Display_OLED.jpg "1")
 
 ![2!](https://github.com/RomanKryvolapov/1.3_OLED_128x64_SH1106_ESP32/blob/master/ESP32-Pinout.png "2")
